@@ -1,0 +1,5 @@
+
+
+# iniciando o projeto
+
+django-admin.exe startproject projeto .

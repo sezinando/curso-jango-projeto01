@@ -1,0 +1,30 @@
+
+
+
+pip install pip setoptools wheel --upgrade   
+
+python3 -m venv venv
+
+pip install pytest
+
+pip install pip setuptools wheel --upgrade
+
+pip install django   
+
+winget install --id Git.Git -e --source winget
+
+git config --global user.name "Beto"
+
+git config --global user.email "robertosezinando@gmail.com"
+
+git config --global init.defaultBranch main
+
+ssh-keygen.exe
+
+git remote add origin https://github.com/sezinando/curso-jango-projeto01.git
+
+git push --set-upstream origin main
+
+django-admin.exe startproject projeto .
+
+
